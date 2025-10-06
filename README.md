@@ -2,7 +2,7 @@
 
 A comprehensive **project management application** designed specifically for **freelancers** to manage their projects, clients, budgets, and payment tracking in one centralized platform.
 
-![Freelance Notebook Banner](screenshots/banner.png)
+
 
 ---
 
@@ -74,11 +74,11 @@ A comprehensive **project management application** designed specifically for **f
 ![Dashboard](ScreenShot/dashbord.png)
 
 ### Add Project Form
-![Add Project](ScreenShot\Addproject.png)
+![Add Project](ScreenShot/Addproject.png)
 
 
 ### Edit Project Modal
-![Edit Project](ScreenShot\edit.png)
+![Edit Project](ScreenShot/edit.png)
 
 
 ---
@@ -353,13 +353,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. **Push to the branch** (`git push origin feature/your-feature-name`)
 6. **Open a Pull Request**
 
-### **Guidelines:**
-- Follow existing code style and conventions
-- Write clear commit messages
-- Test your changes thoroughly
-- Update documentation if needed
 
----
 
 ## 📄 License
 
@@ -375,22 +369,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgments
 
-- Built with **React** and **Express**
-- Database powered by **MongoDB**
-- Icons and emojis from standard Unicode set
-
----
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-- Open an issue on [GitHub Issues](https://github.com/Gopi3113/freelancer_notebook/issues)
-- Check existing issues for solutions
-- Fork and contribute to help improve the project
-
----
 
 ## 🔮 Future Enhancements
 
