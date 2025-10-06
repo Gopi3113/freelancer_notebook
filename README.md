@@ -78,7 +78,7 @@ A comprehensive **project management application** designed specifically for **f
 
 
 ### Edit Project Modal
-![Edit Project](screenshots/edit-project.png)
+![Edit Project](ScreenShot\edit.png)
 
 
 ---
