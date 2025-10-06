@@ -71,7 +71,7 @@ A comprehensive **project management application** designed specifically for **f
 ## 📸 Screenshots
 
 ### Dashboard View
-![Dashboard](ScreenShot\dashbord.png)
+![Dashboard](ScreenShot/dashbord.png)
 
 ### Add Project Form
 ![Add Project](ScreenShot\Addproject.png)
